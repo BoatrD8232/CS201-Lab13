@@ -1,0 +1,1 @@
+Functions.h contains the functions for part 1. These functions only take integers. TempFunctions.h contains the same functions modified to work with templates. The main file will include the template functions header.
